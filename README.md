@@ -8,7 +8,7 @@
 ## &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;🙋‍♂️ About Me
 
 - 🔭 I’m currently working on a  **Admin Template of Delivery App**
-<a href="https://github.com/nshah1729/github-readme-streak-stats"> <img align ="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thynameisash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nshah1729&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
+<a href="https://github.com/asbhadauriya/github-readme-streak-stats"> <img align ="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thynameisash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asbhadauriya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
 
 - 🌱 I’m currently learning **REACT-JS + Express**
 
@@ -68,21 +68,21 @@
 ##  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 My Github Stats
   <br/>
     <center>
- &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://github.com/nshah1729/github-readme-stats"><img align="center" alt="Nishant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nshah1729&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nshah1729/github-readme-stats"><img align="center" alt="Thynameisash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshah1729&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="https://github.com/asbhadauriya/github-readme-stats"><img align="center" alt="Nishant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asbhadauriya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/asbhadauriya/github-readme-stats"><img align="center" alt="Thynameisash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbhadauriya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <br/>
   <p><b>Note: </b>The top languages are only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.</p>
  </center>
 <br/>
 <br/>
-<a href="https://github.com/nshah1729/github-readme-activity-graph"><img alt="Nishant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nshah1729&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/asbhadauriya/github-readme-activity-graph"><img alt="Nishant's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asbhadauriya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
-<!-- <a href="https://twitter.com/nshah1729"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash990" height="35" width="35" /></a> -->
-<a href = "https://www.linkedin.com/in/nshah1729/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
+<!-- <a href="https://twitter.com/asbhadauriya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash990" height="35" width="35" /></a> -->
+<a href = "https://www.linkedin.com/in/asbhadauriya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
 <a href="https://www.leetcode.com/ITS_AKSHAY"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ash990" height="35" width="35" /></a>
 </p>
  
@@ -90,4 +90,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=asbhadauriya">
 </a>
-<a href="https://github.com/nshah1729?tab=asbhadauriya"><img src="https://img.shields.io/github/followers/asbhadauriya?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/asbhadauriya?tab=asbhadauriya"><img src="https://img.shields.io/github/followers/asbhadauriya?label=Followers&style=social" alt="GitHub Badge"></a>
