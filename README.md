@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" src="https://wallpaperaccess.com/full/6697004.jpg" height="400px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Nishant</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Akshay</h1>
 <h3 align="center">A Tech-Enthusiast from India</h3>
 <br/>
 
 
 ## &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a  **Tours App**
+- 🔭 I’m currently working on a  **Admin Template of Delivery App**
 <a href="https://github.com/nshah1729/github-readme-streak-stats"> <img align ="right" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Thynameisash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nshah1729&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
 
 - 🌱 I’m currently learning **REACT-JS + Express**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **nishantshah1729@gmail.com**
+- 📫 How to reach me **asbhadauria007@gmail.com**
 
-- ⚡ Fun fact **I also play Flute**
+- 🧭 Fun fact **I Love traveling**
 <br/>
 
 <center>
@@ -81,13 +81,13 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/nshah1729"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash990" height="35" width="35" /></a>
+<!-- <a href="https://twitter.com/nshah1729"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash990" height="35" width="35" /></a> -->
 <a href = "https://www.linkedin.com/in/nshah1729/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="35" width="35" /></a>
-<a href="https://www.leetcode.com/nishu1729"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ash990" height="35" width="35" /></a>
+<a href="https://www.leetcode.com/ITS_AKSHAY"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="ash990" height="35" width="35" /></a>
 </p>
  
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nshah1729">
+    <img src="https://komarev.com/ghpvc/?username=asbhadauriya">
 </a>
-<a href="https://github.com/nshah1729?tab=followers"><img src="https://img.shields.io/github/followers/nshah1729?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/nshah1729?tab=asbhadauriya"><img src="https://img.shields.io/github/followers/asbhadauriya?label=Followers&style=social" alt="GitHub Badge"></a>
