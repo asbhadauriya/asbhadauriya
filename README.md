@@ -2,13 +2,10 @@
 # Hi :wave: I'm Akshay
 ## Tech-Enthusiast from India
     
-                                                             ## About Me
+                                                          |---|:----:About Me|--------|   
 
-    :telescope: I’m currently working on a Admin Template of Delivery App
-    :seedling: I’m currently learning REACT-JS + Express
-
-    :dancers: I’m looking to collaborate on OpenSource Projects
-
-    :mailbox: How to reach me asbhadauria0007@gmail.com
-
-    :zap: Fun fact I love traveling
+   🔭 I’m currently working on a Admin Template of Delivery App
+   🌱 I’m currently learning REACT-JS + Express
+   👯‍♀️  I’m looking to collaborate on OpenSource Projects
+   📮 How to reach me asbhadauria0007@gmail.com
+   🧭 Fun fact I love traveling
